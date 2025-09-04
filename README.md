@@ -12,13 +12,13 @@
 - 🌍 Dedicated to impactful projects, blending **tech + creativity** for global reach.  
 - 💻 Currently working on **Recomify** – AI-powered MERN E-commerce app.  
 - 🎯 Love turning dev struggles into creative **digital stories**.  
-- 🌟 Dreaming big: remote roles, international collabs & building my personal tech brand.  
+- 🌟 Dreaming big: remote roles  
 
 ---
 
 ### 🛠️ Tech Arsenal  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,vscode" />
 </p>
 
 ---
@@ -26,17 +26,16 @@
 ### 📌 Featured Projects  
 - **Recomify** – AI-powered E-commerce App (MERN, Stripe, JWT, FastAPI)  
 - **Portfolio Website** – Personal showcase built with React + Tailwind  
-- **Practice Projects** – Netflix UI, Instagram Clone, Responsive UIs & more  
+- **Practice Projects** – React Weather App, Instagram Clone, Responsive UIs & more  
 
 ---
 
 ### 🌐 Let’s Connect  
-- 📧 Email: [fawadbaig@gmail.com](mailto:fawadbaig@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com)  
-- 📷 [Instagram](https://instagram.com)  
-- 🎥 [TikTok](https://tiktok.com)  
+- 📧 Email: [fawadahmedbaig10@gmail.com](mailto:fawadahmedbaig10@gmail.com)  
+- 💼 [https://linkedin.com](https://www.linkedin.com/in/fawad-baig/) 
+- 🎥 [https://www.fiverr.com/s/pdZ4brZ  ](https://www.fiverr.com/fawad8280)
 - 🖥️ Portfolio: *Coming Soon*  
 
 ---
 
-<p align="center"><i>“Code like a Queen 👑 | Create like a Visionary 🌌 | Build like Fawad 🚀”</i></p>
+<p align="center"><i>“Code like a King 👑 | Create like a Visionary 🌌 | Build like Fawad 🚀”</i></p>
