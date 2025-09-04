@@ -32,8 +32,8 @@
 
 ### 🌐 Let’s Connect  
 - 📧 Email: [fawadahmedbaig10@gmail.com](mailto:fawadahmedbaig10@gmail.com)  
-- 💼 [https://linkedin.com](https://www.linkedin.com/in/fawad-baig/) 
-- 🎥 [https://www.fiverr.com/s/pdZ4brZ  ](https://www.fiverr.com/fawad8280)
+- 💼 Linkedin: [https://linkedin.com](https://www.linkedin.com/in/fawad-baig/) 
+- 🎥 Fiverr: [https://www.fiverr.com/s/pdZ4brZ  ](https://www.fiverr.com/fawad8280)
 - 🖥️ Portfolio: *Coming Soon*  
 
 ---
