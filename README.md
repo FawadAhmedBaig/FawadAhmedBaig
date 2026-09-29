@@ -20,7 +20,7 @@
 - 🔭 **Current Focus:** Profiling bottlenecks in LLM serving architectures, KV-cache offloading strategies, and heterogeneous CPU-GPU execution.
 - ⚙️ **Distributed Systems:** Architected a 3-node Beowulf cluster utilizing **OpenMPI** and **NFS** for parallel workload distribution and synchronization.
 - 🤖 **Applied AI Infrastructure:** Engineered an automated RAG platform integrating vector retrieval and hardware-accelerated inference via Groq LPUs (*Exhibited at PINTECH Expo 2026*).
-- 🎯 **Target:** Seeking fully funded **Direct Ph.D. positions (GRA)** in Computer Science for Fall 2027.
+- 🎯 **Target:** Seeking **Direct Ph.D. positions (GRA/GTA)** in Computer Science for Fall 2027.
 
 ---
 
