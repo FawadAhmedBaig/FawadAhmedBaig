@@ -52,7 +52,7 @@
 ### 🏆 Academic Distinctions
 - **Silver Medalist:** Ranked 2nd in Computer Science cohort (3.74 / 4.00 CGPA; Final Semester 4.0 / 4.0 SGPA).
 - **National Skills Competency Test (NSCT):** Scored in the **98.5th percentile**.
-- **CS50x Puzzle Day 2026:** Solved all 9/9 algorithmic logic problems.
+- **Harvard CS50x Puzzle Day 2026:** Solved all 10/10 algorithmic logic problems.
 - **Aspire Leaders Program 2026:** Selected for leadership cohort founded by Harvard Business School faculty.
 
 ---
